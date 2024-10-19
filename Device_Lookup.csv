@@ -1,0 +1,101 @@
+Device_Key,Device_Name,Device_Type,Content_Segment,Device_Browser
+22,Device 22,Laptop,Business,Browse_ER_1
+82,Device 82,Laptop,Business,Browse_ER_2
+27,Device 27,Laptop,Business,Browse_ER_1
+87,Device 87,Laptop,Business,Browse_ER_2
+12,Device 12,Laptop,Business,Browse_ER_3
+72,Device 72,Laptop,Business,Browse_ER_4
+34,Device 34,Mobile,Business,Browse_ER_1
+9,Device 9,Mobile,Business,Browse_ER_1
+54,Device 54,Mobile,Business,Browse_ER_4
+83,Device 83,Tablet,Business,Browse_ER_1
+8,Device 8,Tablet,Business,Browse_ER_4
+13,Device 13,Tablet,Business,Browse_ER_4
+65,Device 65,Other,Business,Browse_ER_3
+75,Device 75,Other,Business,Browse_ER_2
+80,Device 80,Other,Business,Browse_ER_4
+46,Device 46,Desktop,Business,Browse_ER_2
+21,Device 21,Desktop,Business,Browse_ER_1
+86,Device 86,Desktop,Business,Browse_ER_3
+96,Device 96,Desktop,Business,Browse_ER_4
+91,Device 91,Desktop,Business,Browse_ER_4
+100,Device 100,Other,Business,Browse_ER_3
+45,Device 45,Other,Business,Browse_ER_2
+90,Device 90,Other,Business,Browse_ER_4
+76,Device 76,Desktop,Business,Browse_ER_2
+51,Device 51,Desktop,Business,Browse_ER_2
+66,Device 66,Desktop,Business,Browse_ER_4
+52,Device 52,Laptop,Education,Browse_ER_2
+4,Device 4,Mobile,Education,Browse_ER_1
+59,Device 59,Mobile,Education,Browse_ER_3
+39,Device 39,Mobile,Gaming,Browse_ER_2
+44,Device 44,Mobile,Education,Browse_ER_4
+24,Device 24,Mobile,Education,Browse_ER_3
+19,Device 19,Mobile,Gaming,Browse_ER_4
+79,Device 79,Mobile,Education,Browse_ER_3
+71,Device 71,Desktop,Education,Browse_ER_3
+56,Device 56,Desktop,Education,Browse_ER_4
+61,Device 61,Desktop,Education,Browse_ER_2
+29,Device 29,Mobile,Education,Browse_ER_3
+49,Device 49,Mobile,Education,Browse_ER_2
+33,Device 33,Tablet,Education,Browse_ER_1
+43,Device 43,Tablet,Education,Browse_ER_1
+35,Device 35,Other,Education,Browse_ER_3
+25,Device 25,Other,Education,Browse_ER_4
+20,Device 20,Other,Education,Browse_ER_4
+30,Device 30,Other,Education,Browse_ER_3
+94,Device 94,Mobile,Gaming,Browse_ER_2
+99,Device 99,Mobile,Gaming,Browse_ER_4
+84,Device 84,Mobile,Gaming,Browse_ER_4
+17,Device 17,Laptop,Gaming,Browse_ER_3
+62,Device 62,Laptop,Gaming,Browse_ER_4
+37,Device 37,Laptop,Gaming,Browse_ER_1
+28,Device 28,Tablet,Gaming,Browse_ER_1
+53,Device 53,Tablet,Gaming,Browse_ER_3
+38,Device 38,Tablet,Gaming,Browse_ER_4
+18,Device 18,Tablet,Gaming,Browse_ER_3
+78,Device 78,Tablet,Gaming,Browse_ER_4
+95,Device 95,Other,Gaming,Browse_ER_1
+50,Device 50,Other,Gaming,Browse_ER_4
+11,Device 11,Desktop,Gaming,Browse_ER_3
+81,Device 81,Desktop,Gaming,Browse_ER_2
+36,Device 36,Desktop,Gaming,Browse_ER_3
+1,Device 1,Desktop,Gaming,Browse_ER_4
+57,Device 57,Laptop,Personal,Browse_ER_2
+92,Device 92,Laptop,Personal,Browse_ER_3
+7,Device 7,Laptop,Personal,Browse_ER_4
+64,Device 64,Mobile,Personal,Browse_ER_2
+89,Device 89,Mobile,Personal,Browse_ER_1
+14,Device 14,Mobile,Personal,Browse_ER_4
+58,Device 58,Tablet,Personal,Browse_ER_2
+3,Device 3,Tablet,Personal,Browse_ER_1
+48,Device 48,Tablet,Personal,Browse_ER_3
+40,Device 40,Other,Personal,Browse_ER_2
+5,Device 5,Other,Personal,Browse_ER_3
+15,Device 15,Other,Personal,Browse_ER_1
+60,Device 60,Other,Personal,Browse_ER_4
+55,Device 55,Other,Personal,Browse_ER_2
+16,Device 16,Desktop,Personal,Browse_ER_1
+41,Device 41,Desktop,Personal,Browse_ER_3
+26,Device 26,Desktop,Personal,Browse_ER_4
+6,Device 6,Desktop,Personal,Browse_ER_3
+31,Device 31,Desktop,Personal,Browse_ER_1
+47,Device 47,Laptop,Travel and Tourism,Browse_ER_3
+32,Device 32,Laptop,Travel and Tourism,Browse_ER_4
+67,Device 67,Laptop,Travel and Tourism,Browse_ER_3
+88,Device 88,Tablet,Travel and Tourism,Browse_ER_2
+63,Device 63,Tablet,Travel and Tourism,Browse_ER_2
+68,Device 68,Tablet,Travel and Tourism,Browse_ER_4
+2,Device 2,Laptop,Travel and Tourism,Browse_ER_4
+42,Device 42,Laptop,Travel and Tourism,Browse_ER_3
+97,Device 97,Laptop,Travel and Tourism,Browse_ER_4
+69,Device 69,Mobile,Travel and Tourism,Browse_ER_2
+74,Device 74,Mobile,Travel and Tourism,Browse_ER_4
+23,Device 23,Tablet,Travel and Tourism,Browse_ER_3
+93,Device 93,Tablet,Travel and Tourism,Browse_ER_4
+98,Device 98,Tablet,Travel and Tourism,Browse_ER_3
+73,Device 73,Tablet,Travel and Tourism,Browse_ER_3
+10,Device 10,Other,Travel and Tourism,Browse_ER_1
+70,Device 70,Other,Travel and Tourism,Browse_ER_2
+85,Device 85,Other,Travel and Tourism,Browse_ER_4
+77,Device 77,Laptop,Travel and Tourism,Browse_ER_3
